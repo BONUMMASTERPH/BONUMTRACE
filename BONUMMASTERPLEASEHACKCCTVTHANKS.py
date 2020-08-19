@@ -7,7 +7,8 @@ import sys
 
 print("""
 
-\033[1;31m\033[1;37m __________
+\033[1;31m\033[1;37m 
+                         __________
                       .~#########%%;~.
                      /############%%;`\
                     /######/~\/~\%%;,;,\
@@ -20,10 +21,12 @@ print("""
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
 X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   BONUMMASTERCCTVHACK@#%,.@                                   
+ X# \.X        @#%,.@UNDERGROUNDSECURITY@#%,.@                                   
 @#%,.@              @#%,.@
                    @#%,.@          @#%,.@                                                 @#%,.@      @#%,.@
-                       @#%.,@  @#%,.@                                               CCTBVHACK BY BONUMMASTER
+                       @#%.,@  @#%,.@                          
+		  CCTVHACK BY BONUMMASTER
+		  USEC/CYBER ARMY/PINOYON
 \033[1;31m                                                                        UNDERGROUND SECURITY PH 
 
 \033[1;31m1)\033[1;37mUnited States                \033[1;31m31)\033[1;37mMexico                \033[1;31m61)\033[1;37mMoldova
